@@ -1,0 +1,119 @@
+body {
+    margin: 0; 
+    font-family: 'Exo 2', sans-serif;    
+    color: #43575d; 
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+h1, h2 {
+    letter-spacing: -2px;
+    font-family: 'Ubuntu', sans-serif;     
+}
+
+#walaper {
+    background-image: url(/img/main_background_mini.jpg);
+    height: 540px;
+    background-size: cover;    
+}
+
+.navbar {
+    background-color: #3498db;
+    min-height: 60px;    
+}
+
+.container {
+    width: 1170px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;    
+}
+
+.container .s6 { 
+    flex-basis:50%;
+}
+
+img.responsive {
+     max-width: 100%;
+}
+
+#whatis {
+    margin-top: 70px;
+}
+
+#whatis p {
+    text-align: justify;
+}
+
+#whatis .first{
+    padding-right: 30px;
+}
+
+#hatis .last{
+    padding-left: 30px;
+}
+
+#whatis img {
+    margin-top:40px;
+}
+
+#whatis ul {
+    padding: 20px;
+}
+
+#whatis li span{
+    font-weight:bold;
+}
+
+/* navbar */
+
+#navbar-logo {
+    height:60px;
+}
+
+#navbar-logo img {
+    height:20px;
+    vertical-align: middle;    
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+nav {
+    float: right;
+    height:60px; 
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+nav ul li {
+    line-height: 60px;
+}
+
+nav a{
+    color:#fff;
+    text-decoration: none;
+}
+
+header .container {
+    justify-content: space-between;
+    padding: 0px 85px;
+}
+
+
