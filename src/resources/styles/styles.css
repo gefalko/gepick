@@ -4,6 +4,10 @@ body {
     color: #43575d; 
 }
 
+a {
+    transition: 300ms;
+}
+
 h1 {
     font-size: 48px;
     font-weight: 700;
@@ -20,10 +24,13 @@ h1, h2 {
     font-family: 'Ubuntu', sans-serif;     
 }
 
-#walaper {
-    background-image: url(/img/main_background_mini.jpg);
-    height: 540px;
-    background-size: cover;    
+header {
+    top: -3px; /* fix white line */
+    position: relative;
+}
+
+#walaper img{
+    width:100%;
 }
 
 .navbar {
@@ -111,9 +118,34 @@ nav a{
     text-decoration: none;
 }
 
+nav a:hover {
+    color:#ffd500;
+}
+
 header .container {
     justify-content: space-between;
     padding: 0px 85px;
 }
 
+@media screen and (max-width: 1171px) { 
+    .container{
+        width: auto;
+        padding-right:15px;
+        padding-left:15px;
+    }
 
+    header .container {
+        padding: 0px 15px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    #whatis .first {
+        display:none;
+    }
+
+    #whatis .last{
+        flex-basis: 100%;
+    }
+
+}
