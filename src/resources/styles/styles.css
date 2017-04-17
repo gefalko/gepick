@@ -24,6 +24,8 @@ h1, h2 {
     font-family: 'Ubuntu', sans-serif;     
 }
 
+/* navbar */
+
 header {
     top: -3px; /* fix white line */
     position: relative;
@@ -37,51 +39,6 @@ header {
     background-color: #3498db;
     min-height: 60px;    
 }
-
-.container {
-    width: 1170px;
-    display: flex;
-    margin-right: auto;
-    margin-left: auto;    
-}
-
-.container .s6 { 
-    flex-basis:50%;
-}
-
-img.responsive {
-     max-width: 100%;
-}
-
-#whatis {
-    margin-top: 70px;
-}
-
-#whatis p {
-    text-align: justify;
-}
-
-#whatis .first{
-    padding-right: 30px;
-}
-
-#hatis .last{
-    padding-left: 30px;
-}
-
-#whatis img {
-    margin-top:40px;
-}
-
-#whatis ul {
-    padding: 20px;
-}
-
-#whatis li span{
-    font-weight:bold;
-}
-
-/* navbar */
 
 #navbar-logo {
     height:60px;
@@ -127,6 +84,76 @@ header .container {
     padding: 0px 85px;
 }
 
+/* Content blocks */
+
+.container {
+    width: 1170px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;    
+}
+
+.container .s6 { 
+    flex-basis:50%;
+}
+
+img.responsive {
+     max-width: 100%;
+}
+
+.block .text {
+    text-align: justify;
+}
+
+.block li.header {
+    font-weight: 700;
+    list-style-type: none;
+    padding-bottom: 10px;
+} 
+
+/* What is block */
+
+#whatis {
+    margin-top: 70px;
+}
+
+#whatis .first{
+    padding-right: 30px;
+}
+
+#hatis .last{
+    padding-left: 30px;
+}
+
+#whatis img {
+    margin-top:40px;
+}
+
+#whatis ul {
+    padding: 20px;
+}
+
+#whatis li span{
+    font-weight:bold;
+}
+
+/* geexplorer block */
+
+#match-explorer {
+    margin-top: 50px;
+}
+
+#match-explorer img {
+    height:350px;
+    margin-top:20px;
+}
+
+#match-explorer .last{
+    text-align:center;
+}
+
+/* responsive */
+
 @media screen and (max-width: 1171px) { 
     .container{
         width: auto;
@@ -140,11 +167,11 @@ header .container {
 }
 
 @media screen and (max-width: 690px) {
-    #whatis .first {
+    .block .img {
         display:none;
     }
 
-    #whatis .last{
+    .block .text{
         flex-basis: 100%;
     }
 
