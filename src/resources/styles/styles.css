@@ -86,6 +86,10 @@ header .container {
 
 /* Content blocks */
 
+.block {
+    margin-top:50px;
+}
+
 .container {
     width: 1170px;
     display: flex;
@@ -99,6 +103,14 @@ header .container {
 
 img.responsive {
      max-width: 100%;
+}
+
+.block .img {
+    text-align:center;
+}
+
+.block .img img{
+    vertical-align:middle;
 }
 
 .block .text {
@@ -139,16 +151,7 @@ img.responsive {
 
 /* geexplorer block */
 
-#match-explorer {
-    margin-top: 50px;
-}
-
-#match-explorer img {
-    height:350px;
-    margin-top:20px;
-}
-
-#match-explorer .last{
+#match-explorer .last {
     text-align:center;
 }
 
