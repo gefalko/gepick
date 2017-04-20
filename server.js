@@ -11,6 +11,6 @@ app.get('/', function (req, res) {
     res.sendFile(path.join(__dirname, './src/main.html'));
 });
 
-app.listen(3000, () => {
-  console.log('Gepick run on 3000!')
+app.listen(3002, () => {
+  console.log('Gepick run on 3002!')
 });
