@@ -1,6 +1,6 @@
 # Gepick
 
-Gepick goal is to create platform for sport predictions. With tools for sport picks tipsters, strategies makers and tools for create artifical intellegence or tools for create statistical mathematical models for sport predictions. Also fo predictions sharing and for money generation from sport predictions. Gepick is open source, so everyone can join to help build this platform.
+GePick project goal is to create a platform for sports predictions. With tools for sports picks tipsters, strategies makers and tools for creating artificial intelligence or tools for creating statistical mathematical models for sports predictions. Also of predictions sharing and for money generation from sports predictions. Gepick is open source, so everyone can join to help build this platform.
 
 Main modules:
 
@@ -10,7 +10,5 @@ Software for collect sport data and allow users to explorer sport matches histor
 Tools for create sport predictions using statistical mathematical models or machine learning algorithms.
 ## GeSocial 
 Social network for share GePredictor bots or Gepick tipsters predictions.
-## GeBet 
+## GeRobots 
 Tools for autobeting.
-## GeInvest
-Tools for control investment strategies using Gepick platform. Main goal generate money from predictions.
