@@ -1,6 +1,6 @@
 # Gepick
 
-GePick project goal is to create a platform for sports predictions. With tools for sports picks tipsters, strategies makers and tools for creating artificial intelligence or tools for creating statistical mathematical models for sports predictions. Also of predictions sharing and for money generation from sports predictions. Gepick is open source, so everyone can join to help build this platform.
+GePick is BTB (beat the bookies) system project goal is to create a platform for sports predictions. With tools for sports picks tipsters, strategies makers and tools for creating artificial intelligence or tools for creating statistical mathematical models for sports predictions. Also of predictions sharing and for money generation from sports predictions. Gepick is open source, so everyone can join to help build this platform.
 
 Main modules:
 
