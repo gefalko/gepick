@@ -9,6 +9,14 @@ Software for collect sport data and allow users to explorer sport matches histor
 ## GePredictor
 Tools for create sport predictions models. This model purpose is allow everyone create predictions model.
 ### For developers
+
+Gepick want to allow developers to create predictions models using gepick sports database.
+Also gepick will offer prediction models estimations tools.
+Developer will register model and set model http url to model server.
+This url will be used to get match ends propabilieties.
+System will send reuest to model url with match to predict and with match history data.
+Prediction will be stored on gepick system.
+Than model owner will can use tools for estimate model profit, occuracy and so on.
 ### For data sciensits
 ### For sport enthuastics
 ## GeSocial
