@@ -4,11 +4,14 @@ GePick is BTB (beat the bookies) system. The project goal is to create a platfor
 
 Main modules:
 
-## GeExplorer 
+## GeExplorer
 Software for collect sport data and allow users to explorer sport matches historical statistic data.
-## GePredictor 
-Tools for create sport predictions using statistical mathematical models or machine learning algorithms.
-## GeSocial 
+## GePredictor
+Tools for create sport predictions models. This model purpose is allow everyone create predictions model.
+### For developers
+### For data sciensits
+### For sport enthuastics
+## GeSocial
 Social network for share GePredictor bots or Gepick tipsters predictions.
 ## GeRobots 
 Tools for autobeting.
