@@ -23,3 +23,9 @@ Than model owner will can use tools for estimate model profit, occuracy and so o
 Social network for share GePredictor bots or Gepick tipsters predictions.
 ## GeRobots 
 Tools for autobeting.
+
+# BlockChain
+
+Gepick should be very closly integrated with decentralized betting systems like:
+
+  - bx.bet
