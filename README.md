@@ -30,3 +30,4 @@ Gepick should be very closly integrated with decentralized betting systems like:
 
   - bx.bet
   - playchip
+  - bethereum
