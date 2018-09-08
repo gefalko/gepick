@@ -32,3 +32,4 @@ Gepick should be very closly integrated with decentralized betting systems like:
   - playchip
   - bethereum
   - mevu.bet
+  - FansUnite
