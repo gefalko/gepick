@@ -1,3 +1,7 @@
+
+### Repository for index page of gepick.com: https://github.com/gefalko/gepick-index
+
+
 # Gepick
 
 GePick is BTB (beat the bookies) system. The project goal is to create a platform for sports predictions. With tools for sports picks tipsters, strategies makers and tools for creating artificial intelligence or tools for creating statistical mathematical models for sports predictions. Also of predictions sharing and for money generation from sports predictions. Gepick is open source, so everyone can join to help build this platform.
